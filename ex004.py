@@ -1,3 +1,5 @@
+print(f'{' DISSECANDO UMA VARIÁVEL ':-^50}')
+
 x = input('Digite algo: ')
 
 print('O tipo primitivo desse valor é: ', type(x))
