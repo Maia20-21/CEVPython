@@ -1,3 +1,3 @@
 print('Olá, Mundo!')
-mensagem = 'Bom dia!'
-print(mensagem)
+msg = 'Bom dia!'
+print(msg)
