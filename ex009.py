@@ -1,3 +1,5 @@
+print(f'{' TABUADA SIMPLES ':-^50}')
+
 n1 = int(input('Digite um valor inteiro: '))
 print(f'{n1} * 1 = {n1 * 1}')
 print(f'{n1} * 2 = {n1 * 2}')
