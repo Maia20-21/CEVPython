@@ -1,2 +1,4 @@
-n1 = float(input('Digite o quanto de dinheiro você tem: '))
-print(f'Você pode comprar {n1 / 3.27:.2f} de dólar')
+print(f'{' CONVERSOR PARA DÓLAR ':-^40}')
+
+real = float(input('Digite quantos reais você tem: R$ '))
+print(f'Você pode comprar {real / 5.43:.2f} de dólar')
