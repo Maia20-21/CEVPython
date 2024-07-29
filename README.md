@@ -1,6 +1,6 @@
 # Python 3 - Curso Completo
 
-Este repositório contém todos os exercícios resolvidos dos cursos **Python 3 - Mundo 1**, **Python 3 - Mundo 2** e **Python 3 - Mundo 3**, totalizando 115 exercícios. Esses cursos cobriram tópicos dos fundamentais até avançados em Python.
+Este repositório contém todos os exercícios resolvidos dos cursos **Python 3 - Mundo 1**, **Python 3 - Mundo 2** e **Python 3 - Mundo 3**, totalizando 115 exercícios. Esses cursos cobriram tópicos dos fundamentais até os avançados em Python.
 
 ## Mundo 1: Fundamentos de Python
 No primeiro módulo, foram abordados os conceitos básicos de Python, incluindo tratamento de dados, operações matemáticas, uso de módulos, estruturas condicionais e adição de cores aos programas. Aqui estão os principais tópicos cobertos:
